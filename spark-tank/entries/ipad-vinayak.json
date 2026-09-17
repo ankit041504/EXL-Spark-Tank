@@ -9,5 +9,17 @@
       "Customer 360|From Reactive Operations to Autonomous Customer Account Health Mana": 200000,
       "Optimizer|Automated IRR Scenario Analyzer for Faster Business Decisions": 300000
     }
+  },
+  {
+    "id": "e1789635156110v3c3",
+    "name": "Rohit ceo",
+    "role": "Ceo",
+    "ts": 1789635156110,
+    "alloc": {
+      "EVision|AI driven location Optimiser for installing EV chargers": 300000,
+      "Assist Pioneers|From Scattered AI Tools to One Governed Assistant: Enterprise AI": 300000,
+      "PL Business Strategic Analytics|Reusable AI Workflow for End-to-End Dashboard Ge": 100000,
+      "AssetIQ Innovators|AI-Powered Predictive Asset Monitoring for Water Networks": 300000
+    }
   }
 ]
